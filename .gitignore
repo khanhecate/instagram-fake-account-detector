@@ -1,0 +1,26 @@
+# Virtual env & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node / tooling
+node_modules/
+graphify-out/
+.graphify*
+.impeccable/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Laporan (tidak untuk dipublikasikan)
+laporan/
+*.ipynb
+Screenshot*.png
