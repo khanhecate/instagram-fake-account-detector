@@ -20,7 +20,6 @@ graphify-out/
 .idea/
 .vscode/
 
-# Laporan (tidak untuk dipublikasikan)
+# Laporan (tidak dipublikasikan; hanya notebook/ yang dipush)
 laporan/
-*.ipynb
 Screenshot*.png
